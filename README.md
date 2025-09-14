@@ -1,2 +1,9 @@
 # codesnatchers
-Here we are going to snatch some codes from stackoverflow.
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello from, Samiksha!!");
+    return 0;
+}
